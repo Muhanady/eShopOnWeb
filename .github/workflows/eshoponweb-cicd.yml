@@ -5,7 +5,7 @@ on: [workflow_dispatch]
 
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
-  RESOURCE-GROUP: rg-eshoponweb-Action
+  RESOURCE-GROUP: VisualStudioOnline-0A0324EBDB9C4AB8A8D6B7A3C7169D3C
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 2723218f-5eec-4513-8cc5-9e3f8d4c7bff
